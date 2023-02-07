@@ -16,7 +16,7 @@ We wish to improve the condition of cows by providing them shelter, welfare, pro
 
 > Devansh Kapoor - Designing Lead - App devoloper and designer
 
-> Eshaan Walia - Assistant dev - Open source devoloper and frontend dev
+> Eshaan Walia - Assistant dev - Open source devoloper and junior frontend dev
 
 
 

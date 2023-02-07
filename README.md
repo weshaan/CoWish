@@ -19,8 +19,10 @@ We wish to improve the condition of cows by providing them shelter, welfare, pro
 > Eshaan Walia - Assistant dev - Open source devoloper and frontend dev
 
 
-Visit our website at:
--https://cowish-in.github.io/
+
+### Visit our website at: ###
+
+- https://cowish-in.github.io/
 
 <p align="center">
   <img src="https://media.giphy.com/media/FT6DYlscgddh8cTR6d/giphy.gif" alt="ERROR: cant load image" width="250" height="250"/>

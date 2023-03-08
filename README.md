@@ -25,5 +25,5 @@ We wish to improve the condition of cows by providing them shelter, welfare, pro
 - https://cowish-in.github.io/
 
 <p align="center">
-  <img src="https://media.giphy.com/media/FT6DYlscgddh8cTR6d/giphy.gif" alt="ERROR: cant load image" width="261" height="261"/>
+  <img src="https://media.giphy.com/media/FT6DYlscgddh8cTR6d/giphy.gif" alt="ERROR: cant load image" width="260" height="260"/>
 </p>

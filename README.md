@@ -10,7 +10,7 @@ Our hack comes under open innovation, as we provide an environment to facilitate
 We wish to improve the condition of cows by providing them shelter, welfare, promoting go products thus limitng market for slaughter industry too.
 
 ### Our Team ###
-> Armaan Mittal - Team lead - Full stack devoloper, ccs memeber
+> Armaan Mittal - Team lead - Full stack devoloper, CCS memeber
 
 > Ishita Sharma - Product Manager - Articulate speaker, competitive coder
 

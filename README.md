@@ -14,7 +14,7 @@ We wish to improve the condition of cows by providing them shelter, welfare, pro
 
 > Ishita Sharma - Product Manager - Articulate speaker, competitive coder
 
-> Devansh Kapoor - Designing Lead - App devoloper and designer
+> Devansh Kapoor - Designing Lead - AI/ML Engineer and designer
 
 > Eshaan Walia - Assistant dev - Open source devoloper and junior frontend dev
 
